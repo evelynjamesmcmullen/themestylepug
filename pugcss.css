@@ -1,15 +1,31 @@
 main
 {
   margin:0;
+  font-family:bookman;
 
 }
 
-h3{
+h2{
 
-color: black;
+color: #ffccff;
 Font size: large;
+  font-family: bookman;
 }
 
 body{
-background-color: #FFB6C1;
+background-color: #996666;
 }
+
+p {
+  border: 5px solid #ffccff;
+  padding: 30px;
+}
+
+nav a{
+  color: ##ffccff;
+  text-decoration: underline;
+
+}
+
+
+
