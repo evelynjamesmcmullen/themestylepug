@@ -13,16 +13,16 @@ Font size: large;
 }
 
 body{
-background-color: #996666;
+background-color: #ffccff;
 }
 
 p {
-  border: 5px solid #ffccff;
+  border: 5px solid #996666;
   padding: 30px;
 }
 
 nav {
-  color: ##ffccff;
+  color: ##996666;
   text-decoration: underline;
 
 }
