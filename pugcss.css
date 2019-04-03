@@ -16,11 +16,6 @@ body{
 background-color: #CEB5A7;
 }
 
-p {
-  border: 5px solid #ADAABF;
-  padding: 30px;
-}
-
 figcaption {
   font-size: 75%;
 }
