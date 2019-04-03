@@ -7,22 +7,22 @@ main
 
 h2{
 
-color: #ffccff;
+color: #6B5F67;
 Font size: large;
   font-family: bookman;
 }
 
 body{
-background-color: #ffccff;
+background-color: #CEB5A7;
 }
 
 p {
-  border: 5px solid #996666;
+  border: 5px solid #6B5F67;
   padding: 30px;
 }
 
 nav {
-  color: ##996666;
+  color: #996666;
   text-decoration: underline;
 
 }
