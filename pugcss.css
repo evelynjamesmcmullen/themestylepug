@@ -8,7 +8,7 @@ main
 h2{
 
 color: #6B5F67;
-Font size: large;
+Font-size: large;
   font-family: bookman;
 }
 
@@ -21,7 +21,9 @@ p {
   padding: 30px;
 }
 
-
+figcaption {
+  font-size: 50%;
+}
 
 
 nav a {
