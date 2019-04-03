@@ -16,33 +16,32 @@ body{
 background-color: #CEB5A7;
 }
 
-p1 {
+p {
   border: 5 px solid #ADAABF;
   padding: 30px;
 }
 
-p2 {
-  border: 5 px solid #ADAABF;
-  padding: 30 px;
+
+
+
+nav a {
+  color: #ADAABF;
+  font-family: bookman;
 }
 
-p3 {
-  border: 5 px solid #ADAABF;
-  padding: 30 px;
-}
-
-p4{
-  border: 5 px solid #ADAABF;
-  padding: 30 px; 
-}
-
-
-
-nav {
-  color: #996666;
+nav a: hover {
   text-decoration: underline;
-
-}
+  
+  nav a: active {
+    color: black;
+  }
+  
+  nav a: visited {
+    color: #ADAABF;
+  }
+    
+  
+  
 
 
 
