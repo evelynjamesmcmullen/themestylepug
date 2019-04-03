@@ -9,14 +9,6 @@ nav a {
   font-family: arial black;
 }
 
-nav a: hover {
-  text-decoration: underline;
-}
-
-nav a: visited {
-    color: #ED6A5E;
-  }
-
 h2{
 
 color: #6B5F67;
@@ -27,7 +19,7 @@ Font-size: large;
 a {
   font-size: large;
   font-family: helvetica black;
-  font-coolor: #DB5461;
+  font-color: #DB5461;
 }
 
 body{
