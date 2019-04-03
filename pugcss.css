@@ -1,7 +1,7 @@
 main
 {
   margin:0;
-  font-family:bookman;
+  font-family:helvetica;
 
 }
 
@@ -9,7 +9,7 @@ h2{
 
 color: #6B5F67;
 Font-size: large;
-  font-family: bookman;
+  font-family:arial black ;
 }
 
 body{
@@ -17,7 +17,7 @@ background-color: #CEB5A7;
 }
 
 p {
-  border: 5 px solid #ADAABF;
+  border: 5px solid #ADAABF;
   padding: 30px;
 }
 
@@ -28,22 +28,13 @@ figcaption {
 
 nav a {
   color: black;
-  font-family: bookman;
+  font-family: arial black;
 }
 
 nav a: hover {
   text-decoration: underline;
-  
-  nav a: active {
-    color: black;
-  }
-  
-  nav a: visited {
+
+
+nav a: visited {
     color: #ADAABF;
   }
-    
-  
-  
-
-
-
