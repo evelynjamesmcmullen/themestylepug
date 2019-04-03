@@ -22,7 +22,7 @@ figcaption {
 
 
 nav a {
-  color: black;
+  color: ADAABF;
   font-family: arial black;
 }
 
@@ -31,5 +31,5 @@ nav a: hover {
 
 
 nav a: visited {
-    color: #ADAABF;
+    color: black;
   }
